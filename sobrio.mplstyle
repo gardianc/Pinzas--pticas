@@ -1,0 +1,30 @@
+# axes:
+axes.grid : True
+axes.axisbelow : True
+axes.prop_cycle : cycler('color', ['teal', 'firebrick', 'darkgoldenrod', 'olive', 'navy', 'darkorchid', 'saddlebrown', 'mediumvioletred', 'slategray', 'black'])
+
+# LINES
+lines.linewidth : 2
+
+# figure:
+figure.autolayout : True
+figure.dpi : 100
+
+# fonts
+xtick.labelsize : 12
+ytick.labelsize : 12
+legend.fontsize : 12
+legend.title_fontsize : 12
+axes.labelsize : 16
+
+font.family : serif
+mathtext.fontset : dejavuserif
+
+# legend
+legend.framealpha : 0.8
+legend.fancybox : False
+legend.edgecolor : 'gray'
+
+
+# save
+savefig.bbox : tight
